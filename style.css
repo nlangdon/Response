@@ -1,0 +1,39 @@
+body{
+	background: 
+	color: white;
+	font-family: helvetica;
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background: black;
+	padding: 20px;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li{
+	display: inline-block;
+	margin-right: 20px;
+}
+
+h1{
+	color: white;
+	align-content: center;
+}
+
+.box{
+	text-align: center;
+}
+
+.container{
+	margin: auto;
+	width: 60%;
+	padding: 0;
+	text-align: center;
+}
